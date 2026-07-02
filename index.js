@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
-  host: 'jogar.bawmc.net', 
+  host: 'bawmc.net', 
   username: 'BigodeZB',
   version: '1.21.1'
 })
